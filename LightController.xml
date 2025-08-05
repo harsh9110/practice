@@ -1,0 +1,3 @@
+<Thing name='LightController'>
+  <Service name='ToggleLight'/>
+</Thing>

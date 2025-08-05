@@ -1,0 +1,3 @@
+<Thing name='HumiditySensor'>
+  <Property name='Humidity' type='NUMBER'/>
+</Thing>

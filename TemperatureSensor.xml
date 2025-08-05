@@ -1,0 +1,3 @@
+<Thing name='TemperatureSensor'>
+  <Property name='Temperature' type='NUMBER'/>
+</Thing>
